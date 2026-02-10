@@ -59,6 +59,7 @@ ul li {
   position: relative;
   list-style: none;
   font-size: 19px;
+  font-family: sans-serif;
   padding: 12px 8px;
   user-select: none;
   cursor: pointer;
